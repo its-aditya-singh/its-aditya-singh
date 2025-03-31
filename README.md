@@ -12,8 +12,9 @@ Hey there! 👋 I’m Aditya, currently working on building my own AI 🤖 for s
 ![](https://nirzak-streak-stats.vercel.app/?user=its-aditya-singh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-aditya-singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![snake gif](https://github.com/its-aditya-singh/its-aditya-singh/blob/output/github-snake-dark.svg)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=its-aditya-singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -21,4 +22,3 @@ Hey there! 👋 I’m Aditya, currently working on building my own AI 🤖 for s
 ---
 [![](https://visitcount.itsvg.in/api?id=its-aditya-singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
